@@ -18,3 +18,4 @@ thop
 torch>=1.7
 torchvision
 tqdm
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
