@@ -2,7 +2,7 @@ loguru
 ninja
 # TODO: Update with exact module version
 numpy
-onnx==1.13.0
+onnx==1.16.2
 onnx-simplifier==0.3.5
 onnxruntime==1.8.0
 opencv_python
